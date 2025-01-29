@@ -2,7 +2,7 @@
 
 组件是工作流中的基本处理单元，负责执行具体的业务逻辑。
 
-我们只提供了流程中一些最基础的组件，考虑到用户各个业务场景可能不同，用户可以自定义组件。
+我们只提供了流程中一些最基础的组件，考虑到用户各个业务场景可能不同，用户可以仿照[自定义组件](/guide/advanced/UserDefinedNode.html)自定义组件，我们后续会补充更多的starter助力业务提升。
 
 ![组件](/images/guide/node/baseComponent.png)
 
@@ -26,6 +26,8 @@
    - 用于处理异常情况，右键编辑节点输出错误信息
 
    ![异常节点](/images/guide/node/exception.png)
+
+   我们在[实例3](/guide/example/demo3.md)来测试异常节点
 
 ### 简单组件
 

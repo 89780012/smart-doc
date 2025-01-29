@@ -78,6 +78,7 @@ export default defineUserConfig({
           children: [
             '/guide/example/demo1.md',
             '/guide/example/demo2.md',
+            '/guide/example/demo3.md',
           ]
         }
       ],
