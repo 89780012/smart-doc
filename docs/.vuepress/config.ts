@@ -79,6 +79,7 @@ export default defineUserConfig({
             '/guide/example/demo1.md',
             '/guide/example/demo2.md',
             '/guide/example/demo3.md',
+            '/guide/example/demo4.md',
           ]
         }
       ],

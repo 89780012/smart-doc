@@ -27,7 +27,7 @@
 
    ![异常节点](/images/guide/node/exception.png)
 
-   我们在[实例3](/guide/example/demo3.md)来测试异常节点
+   我们在[实例3](/guide/example/demo3.md)来演示异常组件
 
 ### 简单组件
 
@@ -36,6 +36,8 @@
    - 可以设置输出字段
 
    ![输出组件](/images/guide/node/print.png)
+
+   我们在[实例4](/guide/example/demo4.md)来演示输出组件
 
 2. **赋值组件**
    - 将流程中对象赋值到变量
