@@ -22,7 +22,7 @@
 ### 系统状态
 - 演示环境运行时间：7x24 小时
 - 系统维护时间：每周一 02:00-04:00
-- 如遇到问题，请通过 [Issues](https://github.com/your-org/smart-flow/issues) 反馈
+- 如遇到问题，请通过 [Issues](https://github.com/89780012/smart-flow-plugin/issues) 反馈
 
 ## 界面预览
 

@@ -73,12 +73,12 @@ cd samples && mvn spring-boot:run
 <div class="features-section">
 <div class="feature-item">
 <h3>💬 交流讨论</h3>
-<a href="https://github.com/your-org/smart-flow/discussions" target="_blank">GitHub Discussions</a>
+<a href="https://github.com/89780012/smart-flow-plugin/issues" target="_blank">GitHub Discussions</a>
 </div>
 
 <div class="feature-item">
 <h3>🐛 问题反馈</h3>
-<a href="https://github.com/your-org/smart-flow/issues" target="_blank">GitHub Issues</a>
+<a href="https://github.com/89780012/smart-flow-plugin/issues" target="_blank">GitHub Issues</a>
 </div>
 
 <div class="feature-item">

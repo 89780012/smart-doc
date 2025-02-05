@@ -15,7 +15,7 @@ export default defineUserConfig({
   
   theme: defaultTheme({
     logo: '/images/logo.png',
-    repo: 'your-org/smart-flow',
+    repo: 'https://github.com/89780012/smart-flow-plugin',
     docsDir: 'docs',
     editLink: true,
     lastUpdated: true,
@@ -62,7 +62,8 @@ export default defineUserConfig({
         },
         {
           text: '💡 核心概念',
-          children: [
+            children: [
+              '/guide/core/config.md',
             '/guide/core/workflow.md',
             '/guide/core/node.md',
           ]
