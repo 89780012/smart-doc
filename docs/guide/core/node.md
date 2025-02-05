@@ -47,11 +47,16 @@
 
    ![赋值组件](/images/guide/node/assign.png)
 
+   我们在[实例5](/guide/example/demo5.md)来演示赋值组件
+
 3. **基础类型转换**
    - 将流程中对象转换为指定类型
    - 可以设置转换字段
 
+
    ![基础类型转换](/images/guide/node/baseTypeConvert.png)
+
+   我们在[实例6](/guide/example/demo6.md)来演示基础类型转换组件
 
 ## 工具组件
 

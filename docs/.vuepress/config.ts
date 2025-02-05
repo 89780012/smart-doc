@@ -80,9 +80,12 @@ export default defineUserConfig({
             '/guide/example/demo2.md',
             '/guide/example/demo3.md',
             '/guide/example/demo4.md',
+            '/guide/example/demo5.md',
+            '/guide/example/demo6.md',
           ]
         }
       ],
+
       '/api/': [
         {
           text: '📚 API参考',
