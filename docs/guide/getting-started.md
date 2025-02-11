@@ -36,13 +36,13 @@
         <dependency>
             <groupId>cc.xiaonuo</groupId>
             <artifactId>smart-flow-web-spring-boot-starter</artifactId>
-            <version>0.5.1-SNAPSHOP</version>
+            <version>0.6.0</version>
         </dependency>
         <!-- database项目 -->
         <dependency>
             <groupId>cc.xiaonuo</groupId>
             <artifactId>smart-flow-database-mysql-spring-boot-starter</artifactId>
-            <version>0.5.1-SNAPSHOP</version>
+            <version>0.6.0</version>
         </dependency>
         <!-- 主要用内置日志框架-->
         <dependency>
