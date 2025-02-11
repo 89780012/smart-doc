@@ -50,12 +50,17 @@ Smart Flow 旨在提供一个**简单**、**灵活**、**高效**的工作流引
 
 ## 🚀 快速体验
 ```bash
-克隆项目
-git clone https://github.com/your-org/smart-flow.git
+1. 下载依赖插件
+从idea插件市场, 搜索smart-flow-plugin并下载。 注意idea版本需要
+
+2. 参开集成文档
+git clone https://github.com/89780012/smart-auth-back.git
+
 安装依赖
-cd smart-flow && mvn install
+cd smart-auth-back && mvn install
+
 启动示例
-cd samples && mvn spring-boot:run
+mvn spring-boot:run
 ```
 ---
 
@@ -68,7 +73,7 @@ cd samples && mvn spring-boot:run
 
 ## 🤝 参与贡献
 
-欢迎加入 Smart Flow 社区！[贡献指南](/contributing)
+欢迎加入 Smart Flow 社区！[贡献指南](https://github.com/89780012/smart-flow-plugin)
 
 <div class="features-section">
 <div class="feature-item">

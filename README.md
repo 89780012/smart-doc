@@ -1,37 +1,36 @@
-# smart-doc
+# Smart Flow 文档
 
-#### 介绍
-smartflow文档
+这是 Smart Flow 工作流引擎的官方文档站点。Smart Flow 是一个基于 Spring Boot 的轻量级可视化工作流引擎。
 
-#### 软件架构
-软件架构说明
+## 特性
+
+- 💡 简单易用 - 提供简单直观的API，快速集成到您的项目中
+- 🚀 功能强大 - 支持复杂的工作流定义，内置丰富的节点类型
+- 🔌 高度可扩展 - 插件化架构设计，支持自定义节点和功能扩展
+- 📦 开箱即用 - 基于 Spring Boot，快速集成到现有项目
+- ⚡️ 高性能 - 优化的执行引擎，支持异步执行和并行处理
+- 🛠️ 可视化监控 - 提供工作流执行状态可视化监控
+
+## 在线文档
+
+访问 https://smartflow.fun](https://smartflow.fun) 查看完整文档。
+
+## 贡献指南
+
+我们欢迎任何形式的贡献，包括但不限于:
+
+- 提交问题和建议
+- 改进文档
+- 提交代码改进
+
+提交 PR 之前请先阅读[贡献指南](https://github.com/89780012/smart-flow-plugin)。
 
 
-#### 安装教程
+## 许可证
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+[MIT](LICENSE)
 
-#### 使用说明
+## 联系我们
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+- GitHub Issues: [smart-flow-plugin/issues](https://github.com/89780012/smart-flow-plugin/issues)
+- 在线演示: [https://demo.smartflow.fun](https://demo.smartflow.fun)
