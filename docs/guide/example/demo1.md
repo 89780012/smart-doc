@@ -2,7 +2,7 @@
 
 # 示例1: 获取业务流水号
 
-我们在 [自定义业务节点-流水号](/guide/advanced/UserDefinedNode.html.md) 创建一个获取流水号的节点，我们顺着创建的节点继续开发。
+我们在 [自定义业务节点-流水号](/guide/advanced/UserDefinedNode.md) 创建一个获取流水号的节点，我们顺着创建的节点继续开发。
 
 这是我们完整的工作流图
 

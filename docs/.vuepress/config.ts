@@ -31,7 +31,7 @@ export default defineUserConfig({
         link: '/guide/' 
       },
       { 
-        text: '🎨 内置图标', 
+        text: '🎨 图标', 
         link: '/icons/' 
       },
       // { text: 'API参考', link: '/api/' },
