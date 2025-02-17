@@ -48,7 +48,12 @@ export default defineUserConfig({
           { text: '📋 更新日志', link: '/changelog' }
           // { text: '贡献指南', link: '/contributing' },
         ]
-      }
+      },
+      { 
+        text: '🔑 获取授权码',
+        link: 'https://auth.smartflow.fun/static',
+        target: '_blank'
+      },
     ],
     
     sidebar: {
