@@ -71,6 +71,8 @@ export default defineUserConfig({
               '/guide/core/config.md',
             '/guide/core/workflow.md',
             '/guide/core/node.md',
+            '/guide/core/api_debug.md',
+            '/guide/core/biz_markdown.md',
           ]
         },
         {
