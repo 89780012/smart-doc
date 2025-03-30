@@ -2,6 +2,15 @@
 
 本文将帮助您快速上手 Smart Flow。
 
+
+## 版本对应关系
+
+| Smart Flow 版本 | Smart Flow Plugin 版本 | 备注 |
+|---------|--------|------|
+| 0.7.2-alpha    | 1.1.6              | 代码结构调整,增加SQL事务选项 |
+| 0.7.1-alpha    | 1.1.5              | 入参参数调整 |
+
+
 ## 全景页面
 ![全景视图](/images/full_view.png)
 
@@ -9,14 +18,6 @@
 接口调试
 
 ![api接口调试](/images/core/api_debug.png)
-
-
-
-## 版本对应关系
-
-| Smart Flow 版本 | Smart Flow Plugin 版本 | 备注 |
-|----------------|----------------------|------|
-| 0.7.1-alpha    | 1.1.5              | 入参参数调整 |
 
 
 ## 环境要求
@@ -72,14 +73,14 @@
         <dependency>
             <groupId>cc.xiaonuo</groupId>
             <artifactId>smart-flow-web-spring-boot-starter</artifactId>
-            <version>0.7.1-alpha</version>
+            <version>0.7.2-alpha</version>
         </dependency>
 
         <!-- database mysql支持 -->
         <dependency>
             <groupId>cc.xiaonuo</groupId>
             <artifactId>smart-flow-database-mysql-spring-boot-starter</artifactId>
-            <version>0.7.1-alpha</version>
+            <version>0.7.2-alpha</version>
         </dependency>
 
         <dependency>

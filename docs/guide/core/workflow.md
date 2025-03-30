@@ -4,6 +4,8 @@
 
 ## 基本属性
 
+### 接口设置
+
 ![基本属性](/images/guide/workflow/basicProperties.png)
 
 ::: tip 提示
@@ -17,6 +19,17 @@
 | 请求URL | 定义请求URL | 是 | /api/permission/page |
 | 请求方法 | 定义请求方法 | 是 | POST |
 | 请求协议 | 定义请求协议 | 是 | application/json |
+
+### 流程设置
+
+![流程设置](/images/guide/workflow/flowProperties.png)
+
+<span style="color: red">开启SQL事务</span>
+
+同一个流程同时存在先存在更新SQL、再存在查询SQL，二者并行串联
+
+- 选择后， 则接口请求成功才会提交事务，若同一个流程同时存在更新SQL、查询SQL， 后者读取的数据可能是为更新前的数据
+- 未选择， 每个SQL组件自动提交, 若更新后的组件存在异常，更新组件也会将数据刷新到数据库中
 
 
 ## 入参面板
